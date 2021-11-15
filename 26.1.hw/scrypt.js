@@ -71,6 +71,8 @@ switch (x) {
         break;
     case 24:
         alert('12 час ночи')
+    case 0:
+        alert('12 час ночи')
         break;
     default:
         alert('ОШИБКА')
